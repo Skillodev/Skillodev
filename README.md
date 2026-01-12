@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Emmanuel Pius | Dev_emmy
+# 👋 Hi, I’m Emmanuel Pius | Dev_Emmy
 
 ### 🚀 Full-Stack Engineer, Mobile Specialist & DevOps Enthusiast
 I am a **JS Master** and **Flutter/Dart Developer** dedicated to building high-performance, scalable applications. I specialize in architecting systems that balance the flexibility of NoSQL with the rigorous data integrity of Relational Databases, all while maintaining robust **CI/CD** pipelines for automated delivery.
