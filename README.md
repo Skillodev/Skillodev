@@ -10,7 +10,7 @@ I am a **JS Master** and **Flutter/Dart Developer** dedicated to building high-p
 | Category | Technologies |
 | :--- | :--- |
 | **Mobile** | Flutter, Dart, Riverpod, Firebase |
-| **Frontend** | React.js, Redux Toolkit, RTK Query, Tailwind CSS |
+| **Frontend** | React.js, Typescript, Redux Toolkit, RTK Query, Tailwind CSS |
 | **Backend** | Node.js, Express.js, PostgreSQL, MongoDB |
 | **DevOps / CI/CD** | GitHub Actions, Docker, Automated Testing, Deployment Pipelines |
 | **Databases** | Mongoose, Sequelize, TypeORM, Raw SQL |
