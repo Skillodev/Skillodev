@@ -31,8 +31,9 @@ I specialize in transforming static legacy systems into modern, high-performance
 ---
 
 ## 📊 GitHub Stats
-![Skillo_dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skillo_dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skillo_dev&layout=compact&theme=radical)
+![Skillo_dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skillo_dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skillo_dev&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skillo_dev&theme=tokyonight)
 
 ---
 
