@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Emmanuel Pius | Dev_Emmy
+# 👋 Hi, I’m Emmanuel Pius | Dev_emmy
 
-### 🚀 Full-Stack Engineer & Mobile Specialist
-I am a **JS Master** and **Flutter/Dart Developer** dedicated to building high-performance, scalable applications. I specialize in architecting systems that balance the flexibility of NoSQL with the rigorous data integrity of Relational Databases.
+### 🚀 Full-Stack Engineer, Mobile Specialist & DevOps Enthusiast
+I am a **JS Master** and **Flutter/Dart Developer** dedicated to building high-performance, scalable applications. I specialize in architecting systems that balance the flexibility of NoSQL with the rigorous data integrity of Relational Databases, all while maintaining robust **CI/CD** pipelines for automated delivery.
 
 ---
 
@@ -12,19 +12,20 @@ I am a **JS Master** and **Flutter/Dart Developer** dedicated to building high-p
 | **Mobile** | Flutter, Dart, Riverpod, Firebase |
 | **Frontend** | React.js, Redux Toolkit, RTK Query, Tailwind CSS |
 | **Backend** | Node.js, Express.js, PostgreSQL, MongoDB |
+| **DevOps / CI/CD** | GitHub Actions, Docker, Automated Testing, Deployment Pipelines |
 | **Databases** | Mongoose, Sequelize, TypeORM, Raw SQL |
-| **Tools** | Git/GitHub, Postman, WSL: Ubuntu, Docker |
+| **Tools** | Git/GitHub, Postman, WSL: Ubuntu |
 
 ---
 
 ## 🏗️ Core Engineering Achievements
-I specialize in transforming static legacy systems into modern, high-performance applications with robust data layers.
+I specialize in transforming static legacy systems into modern, high-performance applications with automated deployment workflows.
 
 ### **Key Technical Contributions:**
-* **Hybrid Database Management**: Experienced in designing relational schemas in **PostgreSQL** for complex data structures and ACID compliance, while leveraging MongoDB for flexible document storage.
-* **Dynamic Architecture**: Refactored core management modules from static configurations to fully API-driven systems.
+* **CI/CD Pipeline Architecture**: Streamlined development workflows by implementing **GitHub Actions** for automated linting, testing, and deployment, ensuring code quality before every merge.
+* **Hybrid Database Management**: Experienced in designing relational schemas in **PostgreSQL** for ACID compliance while leveraging MongoDB for flexible document storage.
 * **State Management**: Optimized global application state by migrating to localized hooks and RTK Query, significantly reducing re-renders.
-* **Database Optimization**: Resolved complex indexing issues across both SQL and NoSQL environments to decrease query latency and improve write performance.
+* **Database Optimization**: Resolved complex indexing issues across SQL and NoSQL environments to decrease query latency.
 * **UX/UI Polish**: Standardized global application "Refresh" states with synchronized loading indicators for a seamless user experience.
 
 ---
@@ -40,19 +41,4 @@ I specialize in transforming static legacy systems into modern, high-performance
 * **💼 LinkedIn**: [emmanuelpiusharuna](https://www.linkedin.com/in/emmanuelpiusharuna)
 * **✉️ Email**: infoemmanuelpius@gmail.com
 
-**⚡ Fun fact:** Whether it's a JSON document or a Relational Table, I'm a firm believer that clean code and optimized schemas are the foundation of great software.
-
-<!--
-**Skillodev/Skillodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**⚡ Fun fact:** I believe that if you have to do a task twice, you should automate it. Clean code + CI/CD = Stress-free deployments.
