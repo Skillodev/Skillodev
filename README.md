@@ -2,41 +2,41 @@
 
 # 👋 Emmanuel Pius
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Flutter+Specialist;DevOps+Enthusiast;Automation+Architect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;Flutter+Specialist;DevOps+Architect;Automation+Engineer" />
 
----
+<br/>
 
-### 🚀 Building scalable systems, production-grade apps & automation platforms
+<img src="https://img.shields.io/badge/ENGINEERING_WITH_PRECISION-22C55E?style=for-the-badge&labelColor=000000" />
 
 </div>
 
 ---
 
-## 💼 Portfolio
+## 🌐 Portfolio
 
 <p align="center">
 <a href="https://v0-emmanuel-pius-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌿_Visit_My_Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Focus
 
-Full-Stack Software Engineer focused on:
+I build production-grade systems engineered for:
 
-- Scalable Web Applications  
-- Cross-Platform Mobile Apps (Flutter)  
-- API Architecture & Backend Systems  
-- DevOps & CI/CD Pipelines  
-- Workflow Automation & System Optimization  
+- Scalability  
+- Performance  
+- Clean Architecture  
+- Automation Infrastructure  
+- Cross-Platform Excellence  
 
-I build production-ready systems designed for performance, maintainability, and scale.
+Every system is designed for long-term maintainability and global standards.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Ecosystem
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,flutter,dart,postgres,mongodb,docker,linux,git,githubactions" />
@@ -44,39 +44,43 @@ I build production-ready systems designed for performance, maintainability, and 
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skillodev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skillodev&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skillodev&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skillodev&theme=chartreuse-dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🎯 What I Focus On
+## ⚙️ Core Competencies
 
-- Clean Architecture  
-- Performance Optimization  
-- Automation Systems  
-- Scalable SaaS Infrastructure  
-- Modern Developer Workflows  
+- API & Backend Architecture  
+- Flutter Production Applications  
+- DevOps & CI/CD Pipelines  
+- Workflow Automation Systems  
+- SaaS Infrastructure Design  
 
 ---
 
-## 🌍 Connect
+## 🤝 Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/emmanuelpiusharuna">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:infoemmanuelpius@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 </p>
 
 ---
 
-<p align="center">
-⚡ Engineering systems that scale globally.
-</p>
+<div align="center">
+
+### ⚡ Engineering systems that scale globally.
+
+<img src="https://komarev.com/ghpvc/?username=skillodev&label=Profile+Views&color=22C55E&style=flat" />
+
+</div>
