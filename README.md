@@ -1,51 +1,53 @@
-<h1 align="center">Emmanuel Pius</h1>
-<p align="center">
-Full-Stack Engineer • Mobile Developer • DevOps
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/skillodev">
-    <img src="https://komarev.com/ghpvc/?username=skillodev&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+# 👋 Hey, I'm Emmanuel
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Flutter+Specialist;Automation+Architect;Founder+%40+Savilinks+Technology" />
 
 ---
 
-## About
+<img src="https://github-profile-trophy.vercel.app/?username=skillodev&theme=algolia&no-frame=true&margin-w=15" />
 
-Engineer focused on building scalable applications and automation systems.  
-Strong interest in clean architecture, DevOps pipelines, and high-performance mobile applications.
-
----
-
-## Tech
-
-**Frontend**  
-React • TypeScript • Next.js  
-
-**Backend**  
-Node.js • Express • REST APIs  
-
-**Mobile**  
-Flutter • Dart  
-
-**Database**  
-PostgreSQL • MongoDB  
-
-**DevOps**  
-Docker • CI/CD • GitHub Actions  
+</div>
 
 ---
 
-## Stats
+## 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skillodev&show_icons=true&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,flutter,dart,postgres,mongodb,docker,linux,git" />
 </p>
 
 ---
 
-## Contact
+## 📊 Performance Metrics
 
-LinkedIn: https://linkedin.com/in/emmanuelpiusharuna  
-Email: infoemmanuelpius@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skillodev&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skillodev&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🔥 What I Build
+
+- Scalable Web Applications
+- Cross-Platform Mobile Apps
+- DevOps Pipelines
+- Business Automation Systems
+- AI-Powered Platforms
+
+---
+
+## 🌍 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/emmanuelpiusharuna"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:infoemmanuelpius@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+⚡ Building systems that scale. Automating everything.
+</p>
