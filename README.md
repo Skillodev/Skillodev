@@ -1,45 +1,86 @@
-# 👋 Hi, I’m Emmanuel Pius | Dev_Emmy
+<div align="center">
 
-### 🚀 Full-Stack Engineer, Mobile Specialist & DevOps Enthusiast
-I am an **Experienced JS** and **Flutter/Dart Developer** dedicated to building high-performance, scalable applications. I specialize in architecting systems that balance the flexibility of NoSQL with the rigorous data integrity of Relational Databases, all while maintaining robust **CI/CD** pipelines for automated delivery.
+<!-- 👋 Greeting + Animated wave -->
+<h1>👋 Hi, I’m Emmanuel Pius (aka Dev_Emmy)</h1>
 
----
+<!-- 🔥 Fun animated tagline -->
+<p><em>Full-Stack Engineer | Mobile Specialist | DevOps Enthusiast</em></p>
 
-## 🛠️ Tech Stack & Expertise
+<!-- 🌐 Badges: GitHub metrics & social -->
+![GitHub followers](https://img.shields.io/github/followers/skillodev?label=Followers&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/skillodev?style=for-the-badge)
+![Top Langs](https://img.shields.io/github/languages/top/skillodev?style=for-the-badge)
 
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile** | Flutter, Dart, Riverpod, Firebase |
-| **Frontend** | React.js, Typescript, Redux Toolkit, RTK Query, Tailwind CSS |
-| **Backend** | Node.js, Express.js, PostgreSQL, MongoDB |
-| **DevOps / CI/CD** | GitHub Actions, Docker, Automated Testing, Deployment Pipelines |
-| **Databases** | Mongoose, Sequelize, TypeORM, Raw SQL |
-| **Tools** | Git/GitHub, Postman, WSL: Ubuntu |
+</div>
 
 ---
 
-## 🏗️ Core Engineering Achievements
-I specialize in transforming static legacy systems into modern, high-performance applications with automated deployment workflows.
+## 🚀 About Me
 
-### **Key Technical Contributions:**
-* **CI/CD Pipeline Architecture**: Streamlined development workflows by implementing **GitHub Actions** for automated linting, testing, and deployment, ensuring code quality before every merge.
-* **Hybrid Database Management**: Experienced in designing relational schemas in **PostgreSQL** for ACID compliance while leveraging MongoDB for flexible document storage.
-* **State Management**: Optimized global application state by migrating to localized hooks and RTK Query, significantly reducing re-renders.
-* **Database Optimization**: Resolved complex indexing issues across SQL and NoSQL environments to decrease query latency.
-* **UX/UI Polish**: Standardized global application "Refresh" states with synchronized loading indicators for a seamless user experience.
+👨‍💻 Passionate about building high-performance, scalable apps with modern full-stack technologies.  
+💡 I love creating **clean, automated workflows** and **awesome developer experiences**.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<!-- Mobile -->
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-![Skillo_dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skillo_dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skillo_dev&layout=compact&theme=tokyonight&cache_seconds=1800)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skillo_dev&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skillodev&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skillodev&theme=radical" height="150" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-* **🌍 Portfolio**: [emmanuel-pius-portfolio.vercel.app](https://v0-emmanuel-pius-portfolio.vercel.app/)
-* **💼 LinkedIn**: [emmanuelpiusharuna](https://www.linkedin.com/in/emmanuelpiusharuna)
-* **✉️ Email**: infoemmanuelpius@gmail.com
+## 💼 Featured Projects
 
-**⚡ Fun fact:** I believe that if you have to do a task twice, you should automate it. Clean code + CI/CD = Stress-free deployments.
+| Project | Description |
+|---------|-------------|
+| **n8n** | Workflow automation with visual builder + 400+ integrations |
+| **alx-system_engineering-devops** | DevOps learning path & shell practice |
+| **Web-Dev-For-Beginners** | MSFT course: beginner web development |
+| **docsify** | Documentation site generator |
+| **project-based-learning** | Curated project tutorials |
+| **flutter-beginners-tutorial** | Flutter beginner course resources |
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/emmanuelpiusharuna"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:infoemmanuelpius@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/iamemmanuelpius"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+✨ <em>Clean, sustainable code & automated CI/CD — stress-free deployments!</em>
+</p>
