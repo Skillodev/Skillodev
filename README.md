@@ -2,7 +2,7 @@
 
 # 👋 Emmanuel Pius
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Experienced+Remote+Full-Stack+Engineer;Flutter+Production+Specialist;DevOps+%26+Automation+Architect;Scalable+System+Builder; Founder+@+Savilinks+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Experienced+Remote+Full-Stack+Engineer;Flutter+Production+Specialist;DevOps+%26+Automation+Architect;Scalable+System+Builder;Founder+@+Savilinks+Technology" />
 
 <br/>
 
