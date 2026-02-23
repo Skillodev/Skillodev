@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Emmanuel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Flutter+Specialist;Automation+Architect;Founder+%40+Savilinks+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Flutter+Specialist;React+Native;Automation+Architect;Founder+%40+Savilinks+Technology" />
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Arsenal
+## 🚀 Tech Stacks 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,flutter,dart,postgres,mongodb,docker,linux,git" />
