@@ -1,4 +1,20 @@
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=skillodev&theme=dark" />
+``` 2
+
+### ✍ Animated Text  
+Use animated SVG or gif-style intros for headlines — great for personality. 3
+
+### 🗂 Sections For Highlights  
+Add sections like “Open Source Contributions”, “Blogging”, “Certifications”, or “Speaking” depending on your content.
+
+---
+
+If you want, I can generate a **second variant**:  
+🔹 *Minimal & Ultra Clean*  
+🔹 *Animated & Interactive*  
+🔹 *Portfolio-Focused (with screenshots)*
+
+Just tell me the style you want next! 🚀4<div align="center">
 
 <!-- 👋 Greeting + Animated wave -->
 <h1>👋 Hi, I’m Emmanuel Pius (aka Dev_Emmy)</h1>
