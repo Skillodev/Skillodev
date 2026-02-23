@@ -39,6 +39,20 @@
 
 ---
 
+## 🌍 Live Portfolio & Projects
+
+<p align="center">
+
+<a href="https://v0-emmanuel-pius-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://vercel.com/emmanuel-pius-s-projects/v0-savilinks-technology-logo">
+  <img src="https://img.shields.io/badge/🏢_Savilinks_Technology_Projects-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
 ## 🌍 Connect
 
 <p align="center">
